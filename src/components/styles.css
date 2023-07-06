@@ -1,0 +1,25 @@
+.cards{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+.card{
+    width: 30%;
+    
+}
+
+.select-for{
+    display: flex;
+    flex-direction: row;
+    width: 15%;
+    margin: 1%;
+}
+
+.break{
+    flex-basis: 100%;
+    height: 0;
+}
